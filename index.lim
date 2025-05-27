@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="5.6.4">
+    <config>
+        <recursos>RECURSOS</recursos>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>ffffff</corfondo>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >CORRECTO</correcto>
+        <incorrecto son="" modo="1" >INCORRECTO</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <texto posx="0" posy="1" ancho="601" largo="349"><![CDATA[
+<p align="center">
+<font color="#080000" face="Arial" size="24"><b>TRABAJO DE: LLANES KATHERYN Y VILLALBA DIANA</b></font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="2" >
+              <tipo>12</tipo>
+              <modo>1</modo>
+              <galeria grande="" son="" texto="">LOS_ANIMALES_DOMESTICOS_-_LAS_TIC_(2)_page-0001.jpg</galeria>
+              <galeria grande="" son="" texto="">LOS_ANIMALES_DOMESTICOS_-_LAS_TIC_(2)_page-0002.jpg</galeria>
+              <galeria grande="" son="" texto="">LOS_ANIMALES_DOMESTICOS_-_LAS_TIC_(2)_page-0003.jpg</galeria>
+        </paxina>
+        <paxina id="3" >
+              <tipo>14</tipo>
+              <peza imaxe="" texto="CABALLO" son="">WhatsApp_Image_2025-05-26_at_8.14.34_PM_(2).jpeg</peza>
+              <peza imaxe="" texto="CERDO" son="">cerdo-removebg-preview.png</peza>
+              <peza imaxe="" texto="PERRO" son="">cute-dog-cartoon-vector-removebg-preview.png</peza>
+              <cfondo>84E1FD</cfondo>
+        </paxina>
+        <paxina id="4" >
+              <tipo>14</tipo>
+              <peza imaxe="WhatsApp_Image_2025-05-26_at_8.14.37_PM_(5).jpeg" texto="" son="">WhatsApp_Image_2025-05-26_at_8.14.37_PM_(5).jpeg</peza>
+              <peza imaxe="WhatsApp_Image_2025-05-26_at_8.14.37_PM_(4).jpeg" texto="GALLO" son="">WhatsApp_Image_2025-05-26_at_8.14.37_PM_(4).jpeg</peza>
+              <peza imaxe="WhatsApp_Image_2025-05-26_at_8.14.37_PM_(3).jpeg" texto="GATO" son="">WhatsApp_Image_2025-05-26_at_8.14.37_PM_(3).jpeg</peza>
+              <cfondo>84E1FD</cfondo>
+        </paxina>
+        <paxina id="5" >
+              <tipo>17</tipo>
+              <parellas>WhatsApp_Image_2025-05-26_at_8.14.37_PM_(2).jpeg</parellas>
+              <parellas>WhatsApp_Image_2025-05-26_at_8.14.37_PM_(1).jpeg</parellas>
+              <parellas>WhatsApp_Image_2025-05-26_at_8.14.34_PM_(6).jpeg</parellas>
+              <parellas>WhatsApp_Image_2025-05-26_at_8.14.38_PM_(1).jpeg</parellas>
+              <parellas>gallo-removebg-preview.png</parellas>
+              <parellas>WhatsApp_Image_2025-05-26_at_8.14.35_PM_(2).jpeg</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>000000</ctapa>
+              <tempo>60</tempo>
+        </paxina>
+        <paxina id="6" >
+              <tipo>19</tipo>
+              <imaxe>WhatsApp_Image_2025-05-26_at_8.14.37_PM.jpeg</imaxe>
+              <texto><![CDATA[OVEJA]]></texto>
+              <resp texto="nala">LANA</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="7" >
+              <tipo>19</tipo>
+              <imaxe>WhatsApp_Image_2025-05-26_at_8.14.34_PM_(6).jpeg</imaxe>
+              <texto><![CDATA[CERDO]]></texto>
+              <resp texto="LINREP">PERNIL</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+    </libro>
+</lim>
